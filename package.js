@@ -1,7 +1,7 @@
 Package.describe({
   name: 'projik:bigtext',
   summary: 'BigText.js - a jQuery plugin for making text big',
-  version: '1.0',
+  version: '1.0.0',
   git: 'https://github.com/projik/meteor-bigtext.git'
 });
 
