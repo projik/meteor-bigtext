@@ -6,7 +6,7 @@ A meteor package of the Jquery plugin [bigtext.js](https://github.com/zachleat/B
 * Play around on the [demo](http://zachleat.github.io/BigText/demo/wizard.html)
 * Watch the [video](http://www.youtube.com/watch?v=OuqB6e6NPRM)
 
-## Intallation
+## Installation
 
     meteor add projik:bigtext
 
