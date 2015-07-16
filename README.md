@@ -123,9 +123,9 @@ Works also with `letter-spacing`, `word-spacing`, and `text-transform`.
     </template>
 
     Template.myTemplate.onRendered(function() {
-    $('#bigtext').bigtext({
-        maxfontsize: 60 // default is 528 (in px)
-    });
+        $('#bigtext').bigtext({
+            maxfontsize: 60 // default is 528 (in px)
+        });
     });
 
 ### Adding a default min font size
@@ -137,9 +137,9 @@ Works also with `letter-spacing`, `word-spacing`, and `text-transform`.
     </template>
 
     Template.myTemplate.onRendered(function() {
-    $('#bigtext').bigtext({
-        minfontsize: 16 // default is null
-    });
+        $('#bigtext').bigtext({
+            minfontsize: 16 // default is null
+        });
     });
 
 ### Is your text static and unchanging?
